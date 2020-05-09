@@ -6,14 +6,10 @@
 
 ## 単語リストの解説
 今回解析した４０３冊は２１分類あるため、
-出現度１００％
 
-２１／２１分類（＝全て）で出現する単語を
-２０／２１分類で出現する単語を
-１９／２１分類
 
 |出現率  |出現分類  | 単語数 | ファイルリンク |
 |---|---|---|---|
 |100 %| 21/21 | 3512 | [Common 21/21](https://docs.google.com/spreadsheets/d/1e99DbmBRLsQP073bfnXxPmM1TaD6jPzQpMEiVGuoA0o/edit?usp=sharing) |
-| 95 %| 20/21 | 1610 |  |
+| 95 %| 20/21 | 1610 | [Common 20/21](https://docs.google.com/spreadsheets/d/1DGoYGkHHtz4ZaUBWVltsJbkSYE9l4HPcCwwwLtCz47c/edit?usp=sharing) |
 | 90 %| 19/21 | 1353 | [Common 19/21](https://docs.google.com/spreadsheets/d/1kVb9K8UWWfUE4DjAVS67-FPjlPfPjUumocPakwqda0o/edit?usp=sharing) |
