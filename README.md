@@ -15,7 +15,8 @@
 
 ### 注意点
 改行や計算式に含まれている文字の関係で変な文字列が単語として載っていたり、Google Spreadsheetの翻訳機能が変な翻訳をしている可能性があります。  
-もし発見した場合は、GitHubの[issue](https://github.com/TOOOOOOMY/text_book_analysis/issues/1)~~またはこちらのGoogleフォーム~~から連絡をいただけると助かります。
+もし発見した場合は、GitHubの[issue](https://github.com/TOOOOOOMY/text_book_analysis/issues/1)~~またはこちらのGoogleフォーム~~から連絡をいただけると助かります。  
+人名や超基本な単語など、単語帳としてふさわしくない単語があった場合でも連絡いただけるとありがたいです。
 
 ## 解析に使用したツール
 言語：Python  
