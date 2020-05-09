@@ -14,6 +14,6 @@
 
 |出現率  |出現分類  | 単語数 | ファイルリンク |
 |---|---|---|---|
-|100 %| 21/21 | 3512 |  |
+|100 %| 21/21 | 3512 | [Common 21/21](https://docs.google.com/spreadsheets/d/1e99DbmBRLsQP073bfnXxPmM1TaD6jPzQpMEiVGuoA0o/edit?usp=sharing) |
 | 95 %| 20/21 | 1610 |  |
-| 90 %| 19/21 | 1353 |  |
+| 90 %| 19/21 | 1353 | [Common 19/21](https://docs.google.com/spreadsheets/d/1kVb9K8UWWfUE4DjAVS67-FPjlPfPjUumocPakwqda0o/edit?usp=sharing) |
