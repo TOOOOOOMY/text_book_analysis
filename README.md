@@ -1,7 +1,5 @@
 # text_book_analysis
-Springerから[英語の専門書籍が多数公開](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)されたのですが、専門外の分野だと単語がわからず困ることも多いため自然言語処理を使って頻出単語やその分野特有の単語の解析を行ってみました。
-
-
+Springerから[英語の専門書籍が多数公開](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)されたのですが、専門外の分野だと単語がわからず困ることも多いため、事前に勉強できるようにしようと自然言語処理を使って頻出単語やその分野特有の単語の解析を行ってみました。
 
 
 ## 書籍リスト
@@ -22,6 +20,8 @@ Springerから[英語の専門書籍が多数公開](https://www.springernature.
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |単語数| 483388 | 64662 | 25336 | 13830 | 8652 | 6028 | 4533 | 3529 | 2930 | 2378 | 2040 | 1849 | 1688 | 1437 | 1338 | 1265 | 1221 | 1162 | 1386 | 1630 | 3668 |
   
+→
+全てのジャンルで出現する単語は思った以上に少なかったですが、「出現頻度の高い単語＝教科書を読む上で必須の単語」と考えると勉強しやすくていいかもしれません。
   
 ## 単語リストの解説
 今回は21ジャンル393冊、単語にして約63万種類あるため、単語の出現率をジャンル単位で計算し90%以上（19以上のジャンルで出現）の出現率を持つものをまとめました。
