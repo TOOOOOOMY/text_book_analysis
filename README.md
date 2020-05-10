@@ -3,13 +3,13 @@
 ・今回解析した[403冊](https://github.com/TOOOOOOMY/text_book_analysis/blob/master/Free%2BEnglish%2Btextbooks.csv)のリスト  
 ・配布元の[Free access to a range of essential textbooks from all disciplines](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
 
-
-## 単語リストの解説
-今回は21ジャンル403冊、単語にして約63万種類あるため、単語の出現率をジャンル単位で計算し90%以上（19以上のジャンルで出現）の出現率を持つものをまとめました。
-  
+## 解析データ
 ![fig1](https://user-images.githubusercontent.com/45617592/81488644-68480c00-92a6-11ea-85fa-19db01c96fbf.png)  
 縦軸：単語数（483388, 64662, 25336, 13830, 8652, 6028, 4533, 3529, 2930, 2378, 2040, 1849, 1688, 1437, 1338, 1265, 1221, 1162, 1386, 1630, 3668）  
 横軸：出現ジャンル数  
+
+## 単語リストの解説
+今回は21ジャンル403冊、単語にして約63万種類あるため、単語の出現率をジャンル単位で計算し90%以上（19以上のジャンルで出現）の出現率を持つものをまとめました。
   
 |出現率  |出現分類  | 単語数 | ファイルリンク |
 |---|---|---|---|
