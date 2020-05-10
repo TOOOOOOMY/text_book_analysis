@@ -3,7 +3,7 @@
 ・今回解析した[403冊](https://github.com/TOOOOOOMY/text_book_analysis/blob/master/Free%2BEnglish%2Btextbooks.csv)のリスト  
 ・配布元の[Free access to a range of essential textbooks from all disciplines](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
 
-## 解析データ
+## 解析結果
 ![fig1](https://user-images.githubusercontent.com/45617592/81488644-68480c00-92a6-11ea-85fa-19db01c96fbf.png)  
   
 | 出現ジャンル数 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |
