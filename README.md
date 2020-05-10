@@ -1,7 +1,12 @@
 # text_book_analysis
 ## 書籍リスト
-・今回解析した[403冊](https://github.com/TOOOOOOMY/text_book_analysis/blob/master/Free%2BEnglish%2Btextbooks.csv)のリスト  
+・今回解析した[393冊](https://github.com/TOOOOOOMY/text_book_analysis/blob/master/Free%2BEnglish%2Btextbooks.csv)のリスト  
 ・配布元の[Free access to a range of essential textbooks from all disciplines](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)
+
+## 書籍データ
+| ジャンル | Engineering | Humanities, Social Sciences and Law | Mathematics and Statistics | Behavioral Science | Biomedical and Life Sciences | Chemistry and Materials Science | Medicine | Business and Economics | Earth and Environmental Science | Physics and Astronomy | Computer Science | Behavioral Science and Psychology | Energy | Business and Management | Religion and Philosophy | Economics and Finance | Education | Law and Criminology | Social Sciences | Literature, Cultural and Media Studies | Intelligent Technologies and Robotics |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 書籍数 | 31 | 10 | 52 | 11 | 30 | 31 | 8 | 15 | 10 | 41 | 51 | 10 | 10 | 25 | 10 | 5 | 9 | 9 | 9 | 9 | 7 |
 
 ## 解析結果
 ![fig1](https://user-images.githubusercontent.com/45617592/81488644-68480c00-92a6-11ea-85fa-19db01c96fbf.png)  
