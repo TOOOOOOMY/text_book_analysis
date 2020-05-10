@@ -6,7 +6,10 @@
 
 ## 単語リストの解説
 今回は21ジャンル403冊、単語にして約63万種類あるため、単語の出現率をジャンル単位で計算し90%以上の出現率を持つものをまとめました。
-
+  
+↓↓出現頻度をまとめたグラフ
+![fig1](https://user-images.githubusercontent.com/45617592/81488644-68480c00-92a6-11ea-85fa-19db01c96fbf.png)
+  
 |出現率  |出現分類  | 単語数 | ファイルリンク |
 |---|---|---|---|
 |100 %| 21/21 | 3512 | [Common 21/21](https://docs.google.com/spreadsheets/d/1e99DbmBRLsQP073bfnXxPmM1TaD6jPzQpMEiVGuoA0o/edit?usp=sharing) |
