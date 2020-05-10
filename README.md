@@ -1,5 +1,5 @@
 # text_book_analysis
-Springerから[英語の専門書籍が多数公開](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)されたのですが、専門外の分野だと単語がわからず困ることも多いため、事前に勉強できるようにしようと自然言語処理を使って頻出単語やその分野特有の単語の解析を行ってみました。
+Springerから[英語の専門書籍が多数公開](https://www.springernature.com/gp/librarians/news-events/all-news-articles/industry-news-initiatives/free-access-to-textbooks-for-institutions-affected-by-coronaviru/17855960)されたのですが、専門外の分野だと単語がわからず困ることも多いため、事前に勉強できるようにしようと自然言語処理を使って頻出単語やその分野特有の単語の解析を行ってみました。  
 このページでは「頻出単語」に限って公開中です。
   
 ## 書籍リスト
